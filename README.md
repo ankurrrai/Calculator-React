@@ -1,7 +1,7 @@
 # Calculator-React
 This is a calculator project of Coding Ninjas made using Reactjs. User can perform various mathematical operations on this calculator like addition, subtraction, multiplication and etc.
 
-[Go Live to Calculator](https://calculator-rajxode.netlify.app/)
+[Go Live to Calculator](https://calculator-react-0wa4.onrender.com/)
 
 # Installation and Run
 To run the following code on your system follow the following instructions.
@@ -18,4 +18,4 @@ To run the following code on your system follow the following instructions.
 - CSS
 - HTML
 
-  ![ss](https://github.com/rajxode/calculator-React/assets/120395470/26b688b5-c7ae-4eb3-b8a2-6662547ec28f)
+  ![ss](https://github.com/ankurrrai/Calculator-React)
