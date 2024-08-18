@@ -18,4 +18,4 @@ To run the following code on your system follow the following instructions.
 - CSS
 - HTML
 
-  ![ss](https://github.com/ankurrrai/Calculator-React)
+  ![ss](https://drive.google.com/file/d/1XgOmfN7D4Cr_cfqfXAAwvyWJT0hx8ffJ/view?usp=sharing)
